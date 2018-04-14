@@ -1,0 +1,113 @@
+/* Index.html - article
+-------------------------------------------*/
+html{ width:100%; overflow-x: auto;}
+.h1, .h5{ width:auto; margin:0 auto; text-align: center;}
+.maintitle{ padding-top:78px; color:#222;}
+.section_2{ height:945px; background:url('../images/bg_product_tab01.jpg') no-repeat; position:relative;}
+#content h1{ padding-top:74px; height:43px; text-align: center;}
+.section_2 h4, .section_3 h4{ padding-top:22px; height:22px; text-align: center; color:#6d695e; font-weight:300;}
+.section_2 h2{ padding-top:52px; height:66px; text-align: center; font-weight: 300;}
+.ico_wrap{ width:363px/*365px*/; height:111px; padding:68px 8px 0 8px; margin:0 auto; color:#666;}
+.ico_wrap li{width:80px; float:left; font-size:14px; text-align: center; margin-top:31px; line-height: 35px; padding:0 4px; font-weight:500;}
+.ico_wrap a{ width:80px; height:80px; overflow: hidden; overflow: hidden; display: block; cursor:pointer;}
+.ico_wrap img{ width:80px; height:160px;}
+#ico_1{ margin-top:-80px;}
+.ico_wrap img:hover{ margin-top: -80px;}
+/* SECTION3 - Family
+--------------------------*/
+.section_3{ height:756px; background-image: url("../images/family_bg.jpg"); background-repeat: no-repeat;}
+.section_3 .btn{ font-weight: 400;}
+.section_3 h1, .section_3 h4{ color:#fff;}
+.section_3 h3{ color:#333; font-weight:600;}
+.col_wrap{ height:415px; padding:0 10px; margin-top:94px;}
+.col_1{ width:378px/*420px*/; height:375px/*415px*/; background-image: url("../images/family_block01.jpg"); float:left;}
+.col_padding{ padding:40px 0 0 42px!important;}
+.col_wrap p{ display: block; margin-top:39px; font-weight:400; color:#222;}
+.btn{ padding:5px 10px; font-size:12px; border-radius:10px; border:1px solid none; display: inline-block; margin:26px 0 0 -3px;}
+.col_2{ width:198px;/*240px*/; height:375px;/*415px*/; background-image: url("../images/family_block02.jpg"); float:left; margin-left:20px; padding:-4px 0 0 -4px;}
+.col_2 a{ border:1px solid #ddd;}
+.col_3{ height:415px; margin-left:20px; float:left;}
+.col_3 p{ margin-top:14px;}
+.col_3 .col_padding{ padding:33px 0 0 36px!important;}
+.row_1{ width:394px; /*430px*/; height:164px;/*197px*/; background-image: url("../images/family_block03.jpg");}
+.row_1 a{ background-color: #f7f7f7;}
+.row_2{ width:394px; /*430px*/; height:164px;/*197px*/; background-image: url("../images/family_block04.jpg"); margin-top:21px;}
+.row_2 a{ background-color: #cc9933; margin-top:40px;}
+.row_1 a, .row_2 a{ margin:21px 0 0 -2px; border:1px solid #ddd; border-radius:12px;}
+/* SECTION4 - comunity
+--------------------------*/
+.section_4 .btn{ font-weight: 400;}
+.section_4{ height:1070px; background-color: #ffebd2;}
+.section_4 ul{ width:360px; height:74px; padding: 45px 0 50px; margin:0 auto;}
+.section_4 ul li{ float:left; margin:0 8px;}
+.section_4 h4{ color:#333; margin-top:22px; font-weight: normal; text-align: center;}
+.section_4 h5{ font-weight:bold; color:#fff; margin:0; padding:0; text-align: left;}
+.box_4 p,.box_5 p,.box_7 p{ display:block; color:#fff; margin-top:22px;}
+.col_01{ height:662px; float:left;}
+.col_w1{ width:313px;}
+.box_1{ height:188px;/*215px;*/ background-color: #fff; padding:27px 27px 0 30px;}
+.box_1>h5{ margin-top:24px;}
+.box_2{ height:427px;/*427px;*/ margin-top:20px; overflow:hidden; position: relative;}
+.box_3{ position: relative; height:430px;}
+.box_3 a{ position:absolute; top:0; with:470px; height:430px; cursor: pointer;}
+.col_w2{ width:474px; margin-left:18px; word-wrap: break-word; text-overflow: ellipsis;}
+.playbtn { width:470px; height:430px;}
+.box_4{ height:175px;/*212px;*/ padding:37px 0 0 35px; margin-top:20px; background:#90c748 url('../images/bg_comm_tab04.png') no-repeat center right; font-weight:normal;}
+.box_4 a{ display: inline-block; border:1px solid none; padding:5px 10px; font-size:12px;}
+.box_4 .btn{ color:#fff; background-color: #5fa81b; font-weight: normal;}
+.col_w3{ width:313px; margin-left:20px;}
+.box_5{ height:178px;/*215px;*/ padding:37px 0 0 35px; background:#6fc8ea url('../images/bg_comm_tab_new.png') no-repeat right 22px bottom 22px; font-weight: normal;}
+.box_5 .btn{ background-color: #3fafd7; color:#fff; margin-top:40px; font-weight: 400;}
+.box_6{ height:164px;/*195px;*/ background-color: #fff; margin-top:20px; padding:30px 0 0 35px; position:relative;
+font-weight: 400; color:444;}
+.box_6 .cross{ width:24px; height:24px; background-color: #999; color:#fff; font-weight:bold; text-align: center; border-radius:50%; box-sizing: border-box; position:absolute; right:22px; top:34px;}
+.box_6 p{ width:255px; margin-top:24px; display: block; word-break: normal; text-overflow: ellipsis; }
+.box_6 .date,.box_1 .date{ display:block; font-size:12px; color:#a5a5a5; margin-top:22px;}
+.box_7{ height:175px;/*212px;*/ margin-top:20px; padding:37px 0 0 35px;
+ background: #c28ef2 url("../images/bg_comm_tab07.png") no-repeat right 22px bottom 22px; font-weight: normal;}
+.box_7 .btn{ background-color: #a66dd8; color:#fff; margin-top:45px;}
+.modal{ width:100%; height:100%; background-color: rgba(0,0,0,0.5); position: fixed; left:0; z-index:99; top:0px!important; padding:150px 0 0 25%; display: none;}
+.modal iframe, .close{ display: inline-block; float:left;}
+.close{ margin-left: 20px;}
+.close img:hover{ filter:brightness(-50%);}
+/*SECTION1 - full 화면 슬라이더
+--------------------------*/
+.section_1{ width: 100%; overflow-x: hidden;}
+.animation_canvas{ height:579px; position: relative; overflow: hidden;}
+.slide{ position:relative;}
+.slide img{ display: block; overflow: hidden;}
+.slider_arrow_panel{ position:absolute; top:40%; left:175px;}
+.control_next,.control_prev{ padding:18px 34px 18px 34px; font-size:2.08em; color:#fff; border:2px solid #fff; position:absolute; cursor: pointer; border-radius: 50%;}
+.control_next{ margin-left:1100px;}
+.slider_control_panel{ position:absolute; bottom:85px; left:50%;}
+.control_button{ float:left; margin:0 2px; background: #999; width:13px; height:13px; border-radius: 50%; display: inline-block;}
+.slider_control_panel .active{ float:left; margin:0 2px; width:26px; height:13px; border-radius:10px; background-color:#ff6a00;}
+/*SECTION2 - 신제품 상품구역 슬라이더
+--------------------------------------------*/
+.new_banner{ overflow: hidden; position:absolute; width:260px; height:250px; background:#fff url('../images/product_new_bg.png') no-repeat top left; top:46px;}
+.circle{ position:absolute; top:25px; left:0;}
+.new_screen{ width:180px; height:185px; margin:64px 0 0 40px; overflow: hidden;}
+.new_banner_canvas{ height:100%; position:relative;}
+.new_banner_canvas img{ width:180px/*220*/; height:185px/*185*/; display: block; float:left;}
+.new_banner_dot{ height:12px; position:absolute; top:10px; left:180px; z-index:3;}
+.new_banner_dot a{ width:12px; height:12px; float:left; background: #ddd; margin:0 2px; border-radius: 50%; cursor:pointer;}
+.new_banner_dot a.active{ background: #ff6a00;}
+/*SECTION2 - 신제품 상품구역 슬라이더2
+-------------------------------------------*/
+.carousel_wrap { margin-top:117px; width:1630px; height:220px; overflow:hidden; text-align:center; margin-bottom:12px; position:relative;}
+.opacity_wrap { position:absolute;}
+.opacity{ width:230px; height:220px; position:absolute; top:581px;}
+.opacity1{ left:0; background: #fff; filter:opacity(50%); -webkit-filter:opacity(50%);/*safari:6.0 - 9.0*/ cursor: default;}
+.opacity2{ right:0; background: #fff; filter:opacity(50%); -webkit-filter:opacity(50%);/*safari:6.0 - 9.0*/ cursor:default;}
+.carousel_canvas{ height:220px; position:relative; width:2800px;}
+.carousel_canvas img{ padding-bottom:25px; width:130px;}
+.carousel_canvas li{ float:left; padding:0px; font-size:1em;/*16px*/ text-align: center; height:220px; color:#666; cursor: pointer; width:230px; display: block;}
+.carousel_wrap ul li strong{ font-size:17px; font-weight: 500; color:#333;}
+.dot_wrap{ margin:0 auto; text-align: left; width:85px;}
+.dot_wrap .dot{ width:13px; height:13px; border-radius: 50%; background: #999; margin:0 2px; float:left;}
+.dot_wrap .active{ width:26px; height:13px; border-radius: 10px; background-color: #ff6a00; margin:0 2px; float:left;}
+.btn_wrap{ position:absolute; top:35px; left:215px;}
+.btn_wrap a{ float:left; width:14px; height:14px; background: #ddd; border-radius: 50%; margin:0 2px;}
+.btn_wrap a.active{ background: #c68c00;}
+.banner { height:470px; overflow: hidden;}
+.banner img{ float:left; display: block;}

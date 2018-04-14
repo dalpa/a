@@ -1,0 +1,44 @@
+/*COMUNITY PAGE
+--------------------------*/
+article{ height: 1126px;}
+.article-title { height:40px; padding:60px 0 0; position: relative;}
+article h3{ height:30px; font-size:2.125em;/*34px*/ display: inline-block; color:#333; padding-top:60px;}
+.total_panel { display: inline-block; width:140px; margin-left:16px;}
+.total_panel span{ color:#ff6a00;}
+.dropdown_wrap{ display: inline-block; color:#555; position:relative; padding-top:60px; float: right; z-index: 4;}
+.dropdown_wrap button{ background-color: #fff; width:99px; height:38px; color:#666; border:1px solid #ddd; text-align: left; padding:0 10px; cursor: pointer;}
+.dropdown_wrap p{ font-size:1em;/*13px*/ line-height:38px;}
+.dropdown_wrap span{ margin-top:0px;}
+.dropdown_wrap ul{ color:#aaa; float:right; position:absolute; top:30; width:99%; z-index: 2; border: 1px solid #c8c8c8; background: #fff; display: none;}
+.dropdown_wrap ul a{ display: block; padding:8px 12px; font-size:0.812em;/*13px*/ border-bottom:1px solid #dedede;}
+.dropdown_wrap ul li:not(last-child){ border-bottom:none;}
+.dropdown_wrap ul a:hover{ background: #eee;}
+/* TABLE
+------------------------------- */
+table{ width:100%; background: #fff; margin-top:60px; border-collapse: collapse;}
+th{ height:1.5em/*24px;*/; background: #f5f5f5; border-top: 1px solid #333; height:60px; font-size:1em; font-family: "Noto Sans"; color:#333; text-align: center;}
+tr{ height:54px; color:#333;}
+tr:last-child{ height:54px; border-bottom:1px solid #999;}
+td{ font-size: 0.875em;/*14px*/ border-top: 1px solid #dcdcdc; text-align: center; font-family: "roboto"; color:#999;}
+td a{ float:left; cursor: pointer; font-family: "Noto Sans"; font-size: 1.142em; color:#333;}
+col.num{ width:91px; text-align: center;}
+col.subject { width:841px;}
+col.date{ width:193px; text-align: center; font-size:0.937em;/*15px*/}
+.paging{ height:32px; overflow: hidden; margin:20px auto; text-align:center; overflow:hidden; margin-top:40px;}
+.pager{ display: inline-block; height:32px;}
+.paging a{ display:block; float:left; width:30px; height:30px; border:1px solid #dedede; margin:0 2px; line-height:30px; color:#555; background: #fff;}
+.paging a, .paging img{ cursor: pointer;}
+.paging .active{ background: #ff6a00;}
+td span{ border-radius: 12px; background:#ff6a00; color:#fff; padding:5px 12px; text-align: center;}
+.search_wrap{ height:80px; box-sizing: border-box; background: #eee; margin:60px 0 120px;}
+.search_center{ width:563px; margin:20px auto; padding-top:20px;}
+.search { position:relative; display: inline-block;}
+.search button{ height:40px; background: #fff; border: 1px solid #dedede; cursor: pointer; padding:0 6px 0 12px; color:#777;}
+.search ul{ display: none; position: absolute; top:40px; background: #fff; color:#333; font-size:13px; border: 1px solid #c8c8c8; z-index: 9; width:100%;}
+.search ul a{ display:block; font-size:13px; padding:5px 12px; z-index: 9; width: 100%; color:#555;}
+.search ul li a:hover{ font-weight:bold;}
+.search button span{ margin-top:-5px; margin-left: 20px;}
+.search_wrap form{ display:inline-block; height:40px;}
+.search_wrap input{ height:38px;}
+.search_text{ width:300px; padding-left:11px; display: inline-block; margin-left: 2px;}
+.search_btn{ width:90px; border: 1px solid #dedede; background: #444; font-weight: bold; color:#fff; display: inline-block; margin-left: 2px;}

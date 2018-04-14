@@ -1,0 +1,37 @@
+/* Family page
+------------------------------------*/
+@font-family { letter-spacing: -1px;}
+article{ padding-top:13px; color:#222;}
+.section_area1{ height:618px; margin-top:62px;}
+.section_title{ height:32px; color:222;}
+.section_img{ height:472px; padding-top:70px; margin-top:33px; border-top: 2px solid #444;}
+.mj_background{ background: url('../images/family01_ecogreen.jpg') no-repeat; width:1600px; height:1000px; margin:80px auto;}
+.padding21{ padding:0 21px;}
+.sub_title{ height:33px; font-size:33px;}
+.mj_background .sub_title{ padding-top:85px;}
+.orange{ display: inline-block; font-size: 1em;/*16px*/ height:16px; font-weight: bold; color:#ff6a00;}
+.text_right{ width:825px; float:right; color:#6d6d6d; font-size:0.893em; font-weight: 600;}
+.article{ height:90px; padding-top:38px;}
+.article2{ height:64px; float:left; margin-top:596px; font-size:0.893em; font-weight: 600; color:#6d6d6d;}
+.section_area2{ margin-top:58px;}
+.section_area2 .text_1{ height:64px;}
+.p{ font-size:1em; font-weight:normal; color:#555; padding-top:35px;}
+.img_panel{ height:162px; margin-top:51px;}
+.text_2{ margin:35px 0 60px; height:110px; }
+.section_area3 { height:2339px;}
+.area3_box{ height:100%; border-top:2px solid #555; margin:0 21px;}
+.section_area3 h2{ height:30px; padding-top:57px;}
+.section_area3 .img_panel{ height:100%;}
+.img_panel .row{ height:304px; margin-top:35px;}
+.row img{ width:519px; height:304px; float:left;}
+.row img:first-child{ margin-right:60px;}
+.area3_text{ height:99px; margin-top:70px;}
+.section_area4{ height:100%;}
+.area4_box{ height:875px; border-top: 2px solid #333; margin:60px 21px; padding-top:66px; border-bottom:1px solid #ddd;}
+.map_panel{ height:621px; margin-top:32px; background: #ddd;}
+.area4_text{height:151px; padding-top:40px;color:#666; font-size:0.967em;/*15px*/}
+.area4_text address{ float:left; font-weight: bold; color:#333;}
+.area4_text_right{ float:right;}
+.area4_text_right address { margin-left:20px; font-size:13px; font-weight:normal; color:#666;}
+.area4_button{ height:70px; padding-bottom:120px;}
+.area4_button button{ float:right; margin-top:30px; cursor: pointer; width:173px; height:40px; background: #333; color:#fff; font-weight: bold; font-size: 15px; letter-spacing: -1px;}

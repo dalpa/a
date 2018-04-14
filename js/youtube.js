@@ -1,0 +1,40 @@
+//open modal
+    $('.b0').click(function(){
+      $('.m0').show();
+   })
+   $('.c0').click(function(){
+      $('.m0').hide();
+   })
+   $('.m0').click(function(){
+      $('.m0').hide();
+   })
+//family_1
+   $('.b1').click(function(){
+     $('.p1').show();
+  })
+  $('.c1').click(function(){
+     $('.p1').hide();
+  })
+  $('.p1').click(function(){
+     $('.p1').hide();
+  })
+//family 2
+  $('.b2').click(function(){
+    $('.p2').show();
+  })
+  $('.c2').click(function(){
+    $('.p2').hide();
+  })
+  $('.p2').click(function(){
+    $('.p2').hide();
+  })
+//family 3
+  $('.b3').click(function(){
+    $('.p3').show();
+})
+$('.c3').click(function(){
+    $('.p3').hide();
+})
+$('.p3').click(function(){
+    $('.p3').hide();
+})

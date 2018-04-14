@@ -1,0 +1,26 @@
+/* Company page
+--------------------------*/
+article { padding:60px 0;}
+.gnb{ float:left; height:60px; position: relative;}
+.gnb a{ float:left; width:188px; height:50px; ;line-height:50px; font-size: 16px; border:1px solid #ddd; text-align: center;}
+.gnb a:not{ border-left:0px solid #ddd;}
+.atricle_title{ height:40px; line-height: 40px;}
+.airticle_title h2{color:#111; font-size: 34px;}
+#tabs ul{ height:56px; padding:0; margin:0; overflow:hidden;}
+#tabs ul li{ height:55px; float:left; width:228px; broder:1px solid #dedede; line-height:55px;}
+.tabs_ul a{ font-size:18px; color:#333; width:227px; height:55px;}
+.content{ height:1907px; padding-top:95px;}
+#tabs{ background-color: #fff; padding-top:40px;}
+#tabs ul li{ width:227px; text-align: center; cursor: pointer; line-height:58px;}
+#tabs ul li a{ font-size:18px;}
+.inactive{ border-bottom:1px solid #ff6a00;}
+.active{ border-bottom:1px solid #fff; border-top:1px solid #ff6a00; border-left:1px solid #ff6a00; border-right:1px solid #ff6a00;}
+.active a{ color:#ff6a00;}
+.tab1{ width:1100px; padding-top:86px; background: url('../images/intro_bg.jpg') no-repeat top 90px left;}
+#tabs_content strong{ color:#ff6a00; font-size:17px; height:26px;}
+#tabs_content p{ color:#666; font-size:0.967em;/*15px*/}
+.text1{ float:left; text-align:left; width:581px; height:274 px; margin:0 auto;}
+.text2{ height:178px; width:440px; float:right; text-align: left; padding-top:315px;}
+.text3{ float:left; width:450px; height:133px; padding-top:475px; }
+.text4{ float:left; width:710px; height:321px; padding-top:135px;}
+.text5{ float:right; width:520px; height:412px; text-align:left; padding-top:90px;}
